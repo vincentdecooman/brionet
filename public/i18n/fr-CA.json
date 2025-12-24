@@ -1,0 +1,275 @@
+{
+  "META": {
+    "TITLE": "Brio-Net | Nettoyage de vitres en hauteur depuis 2003",
+    "DESCRIPTION": "Brio-Net offre le nettoyage de vitres en hauteur depuis 2003, pour le résidentiel et le commercial, dans la région de Saint-Jean-sur-Richelieu, Montréal et la Rive-Sud."
+  },
+  "NAV": {
+    "HOME": "Accueil",
+    "SERVICES": "Services",
+    "MARKETS": "Clientèles",
+    "REGIONS": "Régions",
+    "ABOUT": "À propos",
+    "TESTIMONIALS": "Témoignages",
+    "FAQ": "FAQ",
+    "CONTACT": "Contact",
+    "REQUEST_QUOTE": "Demander une soumission",
+    "CALL_US": "Appelez-nous",
+    "MENU": "Menu"
+  },
+  "HERO": {
+    "TAGLINE": "Nettoyage de vitres en hauteur depuis 2003",
+    "TITLE": "Des vitres impeccables pour votre entreprise ou résidence",
+    "DESCRIPTION": "Brio-Net offre le nettoyage de vitres en hauteur depuis 2003, pour le résidentiel et le commercial, dans la région de Saint-Jean-sur-Richelieu, Montréal et la Rive-Sud.",
+    "CTA_PRIMARY": "Demander une soumission",
+    "CTA_SECONDARY": "Nos services"
+  },
+  "SERVICES": {
+    "TITLE": "Nos services",
+    "SUBTITLE": "Des solutions complètes pour tous vos besoins d'entretien",
+    "WINDOW_CLEANING": {
+      "TITLE": "LAVAGE DE VITRE",
+      "DESCRIPTION": "Nettoyage professionnel de vitres en hauteur avec équipement spécialisé. Service disponible pour immeubles commerciaux et résidentiels de toutes tailles."
+    },
+    "JANITORIAL": {
+      "TITLE": "CONCIERGERIE",
+      "DESCRIPTION": "Services de conciergerie complets pour vos espaces commerciaux. Entretien régulier adapté à vos besoins et à votre horaire."
+    },
+    "HOUSEKEEPING": {
+      "TITLE": "ENTRETIEN MÉNAGER",
+      "DESCRIPTION": "Services d'entretien ménager professionnels pour résidences et commerces. Nettoyage minutieux avec des produits de qualité."
+    },
+    "LEARN_MORE": "En savoir plus"
+  },
+  "MARKETS": {
+    "TITLE": "Commercial et résidentiel",
+    "SUBTITLE": "Des services adaptés à chaque type de propriété",
+    "COMMERCIAL": {
+      "TITLE": "Commercial",
+      "DESCRIPTION": "Immeubles de bureaux, centres commerciaux, établissements de santé, institutions éducatives et plus encore. Nous comprenons les exigences uniques des espaces commerciaux.",
+      "FEATURES": [
+        "Horaires flexibles pour minimiser les perturbations",
+        "Équipement professionnel pour travaux en hauteur",
+        "Service régulier ou ponctuel selon vos besoins",
+        "Devis personnalisé gratuit"
+      ]
+    },
+    "RESIDENTIAL": {
+      "TITLE": "Résidentiel",
+      "DESCRIPTION": "Maisons, condos, appartements et propriétés de luxe. Un service attentionné qui respecte votre espace de vie.",
+      "FEATURES": [
+        "Nettoyage intérieur et extérieur des vitres",
+        "Attention aux détails pour un résultat impeccable",
+        "Respect de votre propriété et de votre vie privée",
+        "Prix compétitifs"
+      ]
+    }
+  },
+  "REGIONS": {
+    "TITLE": "Régions desservies",
+    "SUBTITLE": "Nous servons fièrement les communautés de la Montérégie et du Grand Montréal",
+    "AREAS": {
+      "STJEAN": {
+        "NAME": "Saint-Jean-sur-Richelieu",
+        "DESCRIPTION": "Notre région d'origine, où nous servons la communauté depuis 2003."
+      },
+      "MONTREAL": {
+        "NAME": "Montréal",
+        "DESCRIPTION": "Service disponible dans l'ensemble de l'île de Montréal et ses environs."
+      },
+      "SOUTHSHORE": {
+        "NAME": "Rive-Sud",
+        "DESCRIPTION": "Couvrant Longueuil, Brossard, La Prairie et les municipalités avoisinantes."
+      }
+    },
+    "CTA": "Vérifiez si nous desservons votre secteur"
+  },
+  "ABOUT": {
+    "TITLE": "À propos de Brio-Net",
+    "SUBTITLE": "Plus de 20 ans d'expertise à votre service",
+    "DESCRIPTION": "Depuis 2003, Brio-Net se démarque par la qualité de ses services de nettoyage de vitres en hauteur. Notre équipe expérimentée dessert avec fierté les secteurs résidentiel et commercial de Saint-Jean-sur-Richelieu, Montréal et la Rive-Sud.",
+    "VALUES": {
+      "TITLE": "Nos valeurs",
+      "QUALITY": {
+        "TITLE": "Qualité",
+        "DESCRIPTION": "Un travail minutieux et des résultats impeccables à chaque intervention."
+      },
+      "RELIABILITY": {
+        "TITLE": "Fiabilité",
+        "DESCRIPTION": "Respect des engagements et ponctualité garantie."
+      },
+      "SAFETY": {
+        "TITLE": "Sécurité",
+        "DESCRIPTION": "Équipement moderne et protocoles de sécurité rigoureux."
+      },
+      "SERVICE": {
+        "TITLE": "Service client",
+        "DESCRIPTION": "Une approche personnalisée et une communication transparente."
+      }
+    }
+  },
+  "TESTIMONIALS": {
+    "TITLE": "Ce que nos clients disent",
+    "SUBTITLE": "La satisfaction de nos clients est notre priorité",
+    "ITEMS": [
+      {
+        "TEXT": "Service impeccable et équipe très professionnelle. Nos vitres n'ont jamais été aussi propres!",
+        "AUTHOR": "Client commercial",
+        "LOCATION": "Montréal"
+      },
+      {
+        "TEXT": "Ponctualité, efficacité et résultats remarquables. Je recommande sans hésitation.",
+        "AUTHOR": "Propriétaire résidentiel",
+        "LOCATION": "Saint-Jean-sur-Richelieu"
+      },
+      {
+        "TEXT": "Excellent rapport qualité-prix. L'équipe est courtoise et le travail est toujours bien fait.",
+        "AUTHOR": "Gestionnaire d'immeuble",
+        "LOCATION": "Rive-Sud"
+      }
+    ]
+  },
+  "FAQ": {
+    "TITLE": "Questions fréquentes",
+    "SUBTITLE": "Trouvez rapidement les réponses à vos questions",
+    "ITEMS": [
+      {
+        "QUESTION": "Quelles régions desservez-vous?",
+        "ANSWER": "Nous desservons Saint-Jean-sur-Richelieu, Montréal et la Rive-Sud. Contactez-nous pour vérifier si nous couvrons votre secteur spécifique."
+      },
+      {
+        "QUESTION": "Offrez-vous des services pour les résidences?",
+        "ANSWER": "Oui! Nous offrons nos services tant aux clients commerciaux que résidentiels. Que vous ayez une maison, un condo ou un appartement, nous pouvons vous aider."
+      },
+      {
+        "QUESTION": "Comment obtenir une soumission?",
+        "ANSWER": "Remplissez notre formulaire de contact en ligne ou appelez-nous directement. Nous vous fournirons une soumission gratuite et sans engagement."
+      },
+      {
+        "QUESTION": "Êtes-vous équipés pour les immeubles en hauteur?",
+        "ANSWER": "Absolument. Nous disposons d'équipement spécialisé pour le nettoyage de vitres en hauteur, que ce soit pour des immeubles commerciaux ou des résidences à plusieurs étages."
+      },
+      {
+        "QUESTION": "Quelle est la fréquence recommandée pour le nettoyage des vitres?",
+        "ANSWER": "Pour les commerces, nous recommandons généralement un nettoyage mensuel ou trimestriel selon l'achalandage. Pour les résidences, un nettoyage saisonnier (2 à 4 fois par année) est souvent suffisant."
+      },
+      {
+        "QUESTION": "Quels modes de paiement acceptez-vous?",
+        "ANSWER": "Nous acceptons les paiements par chèque, virement bancaire et les principales cartes de crédit. Les modalités de paiement sont établies lors de la soumission."
+      }
+    ],
+    "MORE_QUESTIONS": "Vous avez d'autres questions?"
+  },
+  "CONTACT": {
+    "TITLE": "Contactez-nous",
+    "SUBTITLE": "Demandez votre soumission gratuite dès aujourd'hui",
+    "FORM": {
+      "NAME": "Nom complet",
+      "NAME_PLACEHOLDER": "Votre nom",
+      "EMAIL": "Courriel",
+      "EMAIL_PLACEHOLDER": "votre@courriel.com",
+      "PHONE": "Téléphone (optionnel)",
+      "PHONE_PLACEHOLDER": "(514) 555-0123",
+      "SERVICE": "Service souhaité",
+      "SERVICE_PLACEHOLDER": "Sélectionnez un service",
+      "REGION": "Région",
+      "REGION_PLACEHOLDER": "Sélectionnez votre région",
+      "MESSAGE": "Message",
+      "MESSAGE_PLACEHOLDER": "Décrivez vos besoins...",
+      "SUBMIT": "Envoyer la demande",
+      "SUBMITTING": "Envoi en cours...",
+      "REQUIRED": "Ce champ est requis",
+      "INVALID_EMAIL": "Veuillez entrer un courriel valide"
+    },
+    "SUCCESS": {
+      "TITLE": "Message envoyé!",
+      "MESSAGE": "Merci pour votre demande. Nous vous contacterons dans les plus brefs délais."
+    },
+    "ERROR": {
+      "TITLE": "Erreur",
+      "MESSAGE": "Une erreur est survenue. Veuillez réessayer ou nous contacter par téléphone."
+    },
+    "INFO": {
+      "TITLE": "Informations de contact",
+      "PHONE": "Téléphone",
+      "EMAIL": "Courriel",
+      "HOURS": "Heures d'ouverture",
+      "HOURS_VALUE": "Lundi au vendredi: 8h à 17h"
+    }
+  },
+  "FOOTER": {
+    "DESCRIPTION": "Nettoyage de vitres en hauteur depuis 2003 pour le résidentiel et le commercial.",
+    "QUICK_LINKS": "Liens rapides",
+    "SERVICES": "Services",
+    "LEGAL": "Légal",
+    "PRIVACY": "Politique de confidentialité",
+    "COOKIES": "Gestion des cookies",
+    "TERMS": "Conditions d'utilisation",
+    "COPYRIGHT": "© {{year}} Brio-Net. Tous droits réservés.",
+    "REGIONS_SERVED": "Régions desservies: Saint-Jean-sur-Richelieu, Montréal, Rive-Sud"
+  },
+  "COOKIES": {
+    "BANNER": {
+      "TITLE": "Nous utilisons des cookies",
+      "DESCRIPTION": "Ce site utilise des cookies pour améliorer votre expérience. Les cookies nécessaires sont essentiels au fonctionnement du site. Vous pouvez choisir d'accepter ou de refuser les cookies optionnels.",
+      "ACCEPT_ALL": "Accepter tout",
+      "REJECT_OPTIONAL": "Refuser les optionnels",
+      "CUSTOMIZE": "Personnaliser"
+    },
+    "MODAL": {
+      "TITLE": "Préférences de cookies",
+      "DESCRIPTION": "Gérez vos préférences de cookies. Conformément à la Loi 25 du Québec, nous respectons votre vie privée et vous donnons le contrôle sur vos données.",
+      "NECESSARY": {
+        "TITLE": "Cookies nécessaires",
+        "DESCRIPTION": "Ces cookies sont essentiels au fonctionnement du site et ne peuvent pas être désactivés. Ils permettent la navigation et l'utilisation des fonctionnalités de base.",
+        "ALWAYS_ON": "Toujours actifs"
+      },
+      "ANALYTICS": {
+        "TITLE": "Cookies analytiques",
+        "DESCRIPTION": "Ces cookies nous aident à comprendre comment les visiteurs interagissent avec notre site en collectant des informations de manière anonyme."
+      },
+      "MARKETING": {
+        "TITLE": "Cookies marketing",
+        "DESCRIPTION": "Ces cookies sont utilisés pour suivre les visiteurs sur les sites web afin d'afficher des publicités pertinentes."
+      },
+      "SAVE": "Enregistrer mes préférences",
+      "ACCEPT_ALL": "Accepter tout"
+    }
+  },
+  "PRIVACY": {
+    "TITLE": "Politique de confidentialité",
+    "LAST_UPDATED": "Dernière mise à jour",
+    "SECTIONS": {
+      "INTRO": {
+        "TITLE": "Introduction",
+        "CONTENT": "Brio-Net s'engage à protéger votre vie privée. Cette politique explique comment nous collectons, utilisons et protégeons vos informations personnelles, conformément à la Loi 25 du Québec sur la protection des renseignements personnels."
+      },
+      "COLLECTION": {
+        "TITLE": "Collecte des informations",
+        "CONTENT": "Nous collectons les informations que vous nous fournissez volontairement via notre formulaire de contact: nom, courriel, téléphone (optionnel), service souhaité, région et message."
+      },
+      "USE": {
+        "TITLE": "Utilisation des informations",
+        "CONTENT": "Vos informations sont utilisées uniquement pour répondre à vos demandes de soumission et pour communiquer avec vous concernant nos services."
+      },
+      "COOKIES": {
+        "TITLE": "Cookies et technologies similaires",
+        "CONTENT": "Notre site utilise des cookies nécessaires au fonctionnement du site. Les cookies analytiques et marketing ne sont activés qu'avec votre consentement explicite."
+      },
+      "RIGHTS": {
+        "TITLE": "Vos droits",
+        "CONTENT": "Vous avez le droit d'accéder à vos données, de les rectifier ou de demander leur suppression. Contactez-nous pour exercer ces droits."
+      },
+      "CONTACT": {
+        "TITLE": "Contact",
+        "CONTENT": "Pour toute question concernant cette politique, contactez-nous via notre formulaire ou par téléphone."
+      }
+    }
+  },
+  "COMMON": {
+    "LOADING": "Chargement...",
+    "ERROR": "Une erreur est survenue",
+    "CLOSE": "Fermer",
+    "BACK_TO_TOP": "Retour en haut"
+  }
+}
+

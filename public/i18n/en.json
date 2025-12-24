@@ -1,0 +1,275 @@
+{
+  "META": {
+    "TITLE": "Brio-Net | High-Rise Window Cleaning Since 2003",
+    "DESCRIPTION": "Brio-Net has provided high-rise window cleaning since 2003 for residential and commercial clients across Saint-Jean-sur-Richelieu, Montréal, and the South Shore."
+  },
+  "NAV": {
+    "HOME": "Home",
+    "SERVICES": "Services",
+    "MARKETS": "Markets",
+    "REGIONS": "Regions",
+    "ABOUT": "About",
+    "TESTIMONIALS": "Testimonials",
+    "FAQ": "FAQ",
+    "CONTACT": "Contact",
+    "REQUEST_QUOTE": "Request a quote",
+    "CALL_US": "Call us",
+    "MENU": "Menu"
+  },
+  "HERO": {
+    "TAGLINE": "High-Rise Window Cleaning Since 2003",
+    "TITLE": "Spotless windows for your business or home",
+    "DESCRIPTION": "Brio-Net has provided high-rise window cleaning since 2003 for residential and commercial clients across Saint-Jean-sur-Richelieu, Montréal, and the South Shore.",
+    "CTA_PRIMARY": "Request a quote",
+    "CTA_SECONDARY": "Our services"
+  },
+  "SERVICES": {
+    "TITLE": "Our Services",
+    "SUBTITLE": "Complete solutions for all your maintenance needs",
+    "WINDOW_CLEANING": {
+      "TITLE": "WINDOW CLEANING",
+      "DESCRIPTION": "Professional high-rise window cleaning with specialized equipment. Service available for commercial and residential buildings of all sizes."
+    },
+    "JANITORIAL": {
+      "TITLE": "JANITORIAL SERVICES",
+      "DESCRIPTION": "Complete janitorial services for your commercial spaces. Regular maintenance tailored to your needs and schedule."
+    },
+    "HOUSEKEEPING": {
+      "TITLE": "HOUSEKEEPING",
+      "DESCRIPTION": "Professional housekeeping services for homes and businesses. Thorough cleaning with quality products."
+    },
+    "LEARN_MORE": "Learn more"
+  },
+  "MARKETS": {
+    "TITLE": "Commercial & Residential",
+    "SUBTITLE": "Services tailored to each type of property",
+    "COMMERCIAL": {
+      "TITLE": "Commercial",
+      "DESCRIPTION": "Office buildings, shopping centers, healthcare facilities, educational institutions and more. We understand the unique requirements of commercial spaces.",
+      "FEATURES": [
+        "Flexible scheduling to minimize disruption",
+        "Professional equipment for high-rise work",
+        "Regular or one-time service based on your needs",
+        "Free customized quote"
+      ]
+    },
+    "RESIDENTIAL": {
+      "TITLE": "Residential",
+      "DESCRIPTION": "Houses, condos, apartments and luxury properties. Attentive service that respects your living space.",
+      "FEATURES": [
+        "Interior and exterior window cleaning",
+        "Attention to detail for impeccable results",
+        "Respect for your property and privacy",
+        "Competitive pricing"
+      ]
+    }
+  },
+  "REGIONS": {
+    "TITLE": "Regions Served",
+    "SUBTITLE": "Proudly serving communities in Montérégie and Greater Montréal",
+    "AREAS": {
+      "STJEAN": {
+        "NAME": "Saint-Jean-sur-Richelieu",
+        "DESCRIPTION": "Our home region, where we've served the community since 2003."
+      },
+      "MONTREAL": {
+        "NAME": "Montréal",
+        "DESCRIPTION": "Service available throughout the Island of Montréal and surrounding areas."
+      },
+      "SOUTHSHORE": {
+        "NAME": "South Shore",
+        "DESCRIPTION": "Covering Longueuil, Brossard, La Prairie and neighboring municipalities."
+      }
+    },
+    "CTA": "Check if we serve your area"
+  },
+  "ABOUT": {
+    "TITLE": "About Brio-Net",
+    "SUBTITLE": "Over 20 years of expertise at your service",
+    "DESCRIPTION": "Since 2003, Brio-Net has stood out for the quality of its high-rise window cleaning services. Our experienced team proudly serves residential and commercial sectors in Saint-Jean-sur-Richelieu, Montréal and the South Shore.",
+    "VALUES": {
+      "TITLE": "Our Values",
+      "QUALITY": {
+        "TITLE": "Quality",
+        "DESCRIPTION": "Meticulous work and impeccable results with every service."
+      },
+      "RELIABILITY": {
+        "TITLE": "Reliability",
+        "DESCRIPTION": "Commitment to our promises and guaranteed punctuality."
+      },
+      "SAFETY": {
+        "TITLE": "Safety",
+        "DESCRIPTION": "Modern equipment and strict safety protocols."
+      },
+      "SERVICE": {
+        "TITLE": "Customer Service",
+        "DESCRIPTION": "A personalized approach and transparent communication."
+      }
+    }
+  },
+  "TESTIMONIALS": {
+    "TITLE": "What Our Clients Say",
+    "SUBTITLE": "Customer satisfaction is our priority",
+    "ITEMS": [
+      {
+        "TEXT": "Impeccable service and a very professional team. Our windows have never been this clean!",
+        "AUTHOR": "Commercial client",
+        "LOCATION": "Montréal"
+      },
+      {
+        "TEXT": "Punctuality, efficiency and remarkable results. I recommend without hesitation.",
+        "AUTHOR": "Residential owner",
+        "LOCATION": "Saint-Jean-sur-Richelieu"
+      },
+      {
+        "TEXT": "Excellent value for money. The team is courteous and the work is always well done.",
+        "AUTHOR": "Building manager",
+        "LOCATION": "South Shore"
+      }
+    ]
+  },
+  "FAQ": {
+    "TITLE": "Frequently Asked Questions",
+    "SUBTITLE": "Quickly find answers to your questions",
+    "ITEMS": [
+      {
+        "QUESTION": "What regions do you serve?",
+        "ANSWER": "We serve Saint-Jean-sur-Richelieu, Montréal and the South Shore. Contact us to verify if we cover your specific area."
+      },
+      {
+        "QUESTION": "Do you offer services for residences?",
+        "ANSWER": "Yes! We offer our services to both commercial and residential clients. Whether you have a house, condo or apartment, we can help."
+      },
+      {
+        "QUESTION": "How do I get a quote?",
+        "ANSWER": "Fill out our online contact form or call us directly. We will provide you with a free, no-obligation quote."
+      },
+      {
+        "QUESTION": "Are you equipped for high-rise buildings?",
+        "ANSWER": "Absolutely. We have specialized equipment for high-rise window cleaning, whether for commercial buildings or multi-story residences."
+      },
+      {
+        "QUESTION": "What is the recommended frequency for window cleaning?",
+        "ANSWER": "For businesses, we generally recommend monthly or quarterly cleaning depending on traffic. For residences, seasonal cleaning (2 to 4 times per year) is often sufficient."
+      },
+      {
+        "QUESTION": "What payment methods do you accept?",
+        "ANSWER": "We accept payment by check, bank transfer and major credit cards. Payment terms are established during the quote process."
+      }
+    ],
+    "MORE_QUESTIONS": "Have more questions?"
+  },
+  "CONTACT": {
+    "TITLE": "Contact Us",
+    "SUBTITLE": "Request your free quote today",
+    "FORM": {
+      "NAME": "Full Name",
+      "NAME_PLACEHOLDER": "Your name",
+      "EMAIL": "Email",
+      "EMAIL_PLACEHOLDER": "your@email.com",
+      "PHONE": "Phone (optional)",
+      "PHONE_PLACEHOLDER": "(514) 555-0123",
+      "SERVICE": "Desired Service",
+      "SERVICE_PLACEHOLDER": "Select a service",
+      "REGION": "Region",
+      "REGION_PLACEHOLDER": "Select your region",
+      "MESSAGE": "Message",
+      "MESSAGE_PLACEHOLDER": "Describe your needs...",
+      "SUBMIT": "Send Request",
+      "SUBMITTING": "Sending...",
+      "REQUIRED": "This field is required",
+      "INVALID_EMAIL": "Please enter a valid email"
+    },
+    "SUCCESS": {
+      "TITLE": "Message Sent!",
+      "MESSAGE": "Thank you for your request. We will contact you as soon as possible."
+    },
+    "ERROR": {
+      "TITLE": "Error",
+      "MESSAGE": "An error occurred. Please try again or contact us by phone."
+    },
+    "INFO": {
+      "TITLE": "Contact Information",
+      "PHONE": "Phone",
+      "EMAIL": "Email",
+      "HOURS": "Business Hours",
+      "HOURS_VALUE": "Monday to Friday: 8am to 5pm"
+    }
+  },
+  "FOOTER": {
+    "DESCRIPTION": "High-rise window cleaning since 2003 for residential and commercial clients.",
+    "QUICK_LINKS": "Quick Links",
+    "SERVICES": "Services",
+    "LEGAL": "Legal",
+    "PRIVACY": "Privacy Policy",
+    "COOKIES": "Cookie Settings",
+    "TERMS": "Terms of Use",
+    "COPYRIGHT": "© {{year}} Brio-Net. All rights reserved.",
+    "REGIONS_SERVED": "Regions served: Saint-Jean-sur-Richelieu, Montréal, South Shore"
+  },
+  "COOKIES": {
+    "BANNER": {
+      "TITLE": "We use cookies",
+      "DESCRIPTION": "This site uses cookies to improve your experience. Necessary cookies are essential for the site to function. You can choose to accept or refuse optional cookies.",
+      "ACCEPT_ALL": "Accept all",
+      "REJECT_OPTIONAL": "Reject optional",
+      "CUSTOMIZE": "Customize"
+    },
+    "MODAL": {
+      "TITLE": "Cookie Preferences",
+      "DESCRIPTION": "Manage your cookie preferences. In accordance with Quebec's Law 25, we respect your privacy and give you control over your data.",
+      "NECESSARY": {
+        "TITLE": "Necessary Cookies",
+        "DESCRIPTION": "These cookies are essential for the site to function and cannot be disabled. They enable navigation and use of basic features.",
+        "ALWAYS_ON": "Always active"
+      },
+      "ANALYTICS": {
+        "TITLE": "Analytics Cookies",
+        "DESCRIPTION": "These cookies help us understand how visitors interact with our site by collecting information anonymously."
+      },
+      "MARKETING": {
+        "TITLE": "Marketing Cookies",
+        "DESCRIPTION": "These cookies are used to track visitors across websites to display relevant advertisements."
+      },
+      "SAVE": "Save my preferences",
+      "ACCEPT_ALL": "Accept all"
+    }
+  },
+  "PRIVACY": {
+    "TITLE": "Privacy Policy",
+    "LAST_UPDATED": "Last updated",
+    "SECTIONS": {
+      "INTRO": {
+        "TITLE": "Introduction",
+        "CONTENT": "Brio-Net is committed to protecting your privacy. This policy explains how we collect, use and protect your personal information, in accordance with Quebec's Law 25 on the protection of personal information."
+      },
+      "COLLECTION": {
+        "TITLE": "Information Collection",
+        "CONTENT": "We collect information you voluntarily provide through our contact form: name, email, phone (optional), desired service, region and message."
+      },
+      "USE": {
+        "TITLE": "Use of Information",
+        "CONTENT": "Your information is used only to respond to your quote requests and to communicate with you about our services."
+      },
+      "COOKIES": {
+        "TITLE": "Cookies and Similar Technologies",
+        "CONTENT": "Our site uses cookies necessary for the site to function. Analytics and marketing cookies are only activated with your explicit consent."
+      },
+      "RIGHTS": {
+        "TITLE": "Your Rights",
+        "CONTENT": "You have the right to access your data, correct it or request its deletion. Contact us to exercise these rights."
+      },
+      "CONTACT": {
+        "TITLE": "Contact",
+        "CONTENT": "For any questions about this policy, contact us via our form or by phone."
+      }
+    }
+  },
+  "COMMON": {
+    "LOADING": "Loading...",
+    "ERROR": "An error occurred",
+    "CLOSE": "Close",
+    "BACK_TO_TOP": "Back to top"
+  }
+}
+
