@@ -1,7 +1,7 @@
 {
   "META": {
-    "TITLE": "Brio-Net | High-Rise Window Cleaning Since 2003",
-    "DESCRIPTION": "Brio-Net has provided high-rise window cleaning since 2003 for residential and commercial clients across Saint-Jean-sur-Richelieu, Montréal, and the South Shore."
+    "TITLE": "FDC Multiservices | Window Cleaning, Janitorial & Maintenance",
+    "DESCRIPTION": "FDC Multiservices offers window cleaning, janitorial services, pressure washing, commercial-residential services and manual snow removal across Saint-Jean-sur-Richelieu, Montréal, and the South Shore."
   },
   "NAV": {
     "HOME": "Home",
@@ -17,9 +17,9 @@
     "MENU": "Menu"
   },
   "HERO": {
-    "TAGLINE": "High-Rise Window Cleaning Since 2003",
-    "TITLE": "Spotless windows for your business or home",
-    "DESCRIPTION": "Brio-Net has provided high-rise window cleaning since 2003 for residential and commercial clients across Saint-Jean-sur-Richelieu, Montréal, and the South Shore.",
+    "TAGLINE": "Residential & Commercial Multiservices",
+    "TITLE": "Professional services for your business or home",
+    "DESCRIPTION": "FDC Multiservices offers window cleaning, janitorial services, pressure washing and manual snow removal for residential and commercial clients across Saint-Jean-sur-Richelieu, Montréal, and the South Shore.",
     "CTA_PRIMARY": "Request a quote",
     "CTA_SECONDARY": "Our services"
   },
@@ -28,15 +28,23 @@
     "SUBTITLE": "Complete solutions for all your maintenance needs",
     "WINDOW_CLEANING": {
       "TITLE": "WINDOW CLEANING",
-      "DESCRIPTION": "Professional high-rise window cleaning with specialized equipment. Service available for commercial and residential buildings of all sizes."
+      "DESCRIPTION": "Professional window cleaning with specialized equipment. Service available for commercial and residential buildings of all sizes."
     },
     "JANITORIAL": {
       "TITLE": "JANITORIAL SERVICES",
       "DESCRIPTION": "Complete janitorial services for your commercial spaces. Regular maintenance tailored to your needs and schedule."
     },
-    "HOUSEKEEPING": {
-      "TITLE": "HOUSEKEEPING",
-      "DESCRIPTION": "Professional housekeeping services for homes and businesses. Thorough cleaning with quality products."
+    "PRESSURE_WASHING": {
+      "TITLE": "PRESSURE WASHING",
+      "DESCRIPTION": "Deep high-pressure cleaning for your exterior surfaces: driveways, terraces, parking lots, facades and more."
+    },
+    "COMMERCIAL_RESIDENTIAL": {
+      "TITLE": "COMMERCIAL-RESIDENTIAL",
+      "DESCRIPTION": "Services tailored to every type of property, whether it's a commercial building, private residence or condominium."
+    },
+    "SNOW_REMOVAL": {
+      "TITLE": "MANUAL SNOW REMOVAL",
+      "DESCRIPTION": "Manual snow removal service for roofs, balconies, entrances and hard-to-reach spaces. Fast and safe intervention."
     },
     "LEARN_MORE": "Learn more"
   },
@@ -48,7 +56,7 @@
       "DESCRIPTION": "Office buildings, shopping centers, healthcare facilities, educational institutions and more. We understand the unique requirements of commercial spaces.",
       "FEATURES": [
         "Flexible scheduling to minimize disruption",
-        "Professional equipment for high-rise work",
+        "Professional equipment for all jobs",
         "Regular or one-time service based on your needs",
         "Free customized quote"
       ]
@@ -70,7 +78,7 @@
     "AREAS": {
       "STJEAN": {
         "NAME": "Saint-Jean-sur-Richelieu",
-        "DESCRIPTION": "Our home region, where we've served the community since 2003."
+        "DESCRIPTION": "Our home region, where we proudly serve the community."
       },
       "MONTREAL": {
         "NAME": "Montréal",
@@ -84,9 +92,9 @@
     "CTA": "Check if we serve your area"
   },
   "ABOUT": {
-    "TITLE": "About Brio-Net",
-    "SUBTITLE": "Over 20 years of expertise at your service",
-    "DESCRIPTION": "Since 2003, Brio-Net has stood out for the quality of its high-rise window cleaning services. Our experienced team proudly serves residential and commercial sectors in Saint-Jean-sur-Richelieu, Montréal and the South Shore.",
+    "TITLE": "About FDC Multiservices",
+    "SUBTITLE": "Your trusted partner for maintenance and multiservices",
+    "DESCRIPTION": "FDC Multiservices stands out for the quality and diversity of its maintenance services. Our experienced team proudly serves residential and commercial sectors in Saint-Jean-sur-Richelieu, Montréal and the South Shore.",
     "VALUES": {
       "TITLE": "Our Values",
       "QUALITY": {
@@ -145,8 +153,8 @@
         "ANSWER": "Fill out our online contact form or call us directly. We will provide you with a free, no-obligation quote."
       },
       {
-        "QUESTION": "Are you equipped for high-rise buildings?",
-        "ANSWER": "Absolutely. We have specialized equipment for high-rise window cleaning, whether for commercial buildings or multi-story residences."
+        "QUESTION": "Do you offer manual snow removal?",
+        "ANSWER": "Absolutely. We offer a manual snow removal service for roofs, balconies, entrances and hard-to-reach spaces, with fast and safe intervention."
       },
       {
         "QUESTION": "What is the recommended frequency for window cleaning?",
@@ -171,6 +179,11 @@
       "PHONE_PLACEHOLDER": "(514) 555-0123",
       "SERVICE": "Desired Service",
       "SERVICE_PLACEHOLDER": "Select a service",
+      "SERVICE_WINDOW_CLEANING": "Window Cleaning",
+      "SERVICE_JANITORIAL": "Janitorial Services",
+      "SERVICE_PRESSURE_WASHING": "Pressure Washing",
+      "SERVICE_COMMERCIAL_RESIDENTIAL": "Commercial-Residential",
+      "SERVICE_SNOW_REMOVAL": "Manual Snow Removal",
       "REGION": "Region",
       "REGION_PLACEHOLDER": "Select your region",
       "MESSAGE": "Message",
@@ -197,14 +210,14 @@
     }
   },
   "FOOTER": {
-    "DESCRIPTION": "High-rise window cleaning since 2003 for residential and commercial clients.",
+    "DESCRIPTION": "Professional maintenance services for residential and commercial clients.",
     "QUICK_LINKS": "Quick Links",
     "SERVICES": "Services",
     "LEGAL": "Legal",
     "PRIVACY": "Privacy Policy",
     "COOKIES": "Cookie Settings",
     "TERMS": "Terms of Use",
-    "COPYRIGHT": "© {{year}} Brio-Net. All rights reserved.",
+    "COPYRIGHT": "© {{year}} FDC Multiservices. All rights reserved.",
     "REGIONS_SERVED": "Regions served: Saint-Jean-sur-Richelieu, Montréal, South Shore"
   },
   "COOKIES": {
@@ -241,7 +254,7 @@
     "SECTIONS": {
       "INTRO": {
         "TITLE": "Introduction",
-        "CONTENT": "Brio-Net is committed to protecting your privacy. This policy explains how we collect, use and protect your personal information, in accordance with Quebec's Law 25 on the protection of personal information."
+        "CONTENT": "FDC Multiservices is committed to protecting your privacy. This policy explains how we collect, use and protect your personal information, in accordance with Quebec's Law 25 on the protection of personal information."
       },
       "COLLECTION": {
         "TITLE": "Information Collection",
@@ -269,7 +282,7 @@
     "LOADING": "Loading...",
     "ERROR": "An error occurred",
     "CLOSE": "Close",
-    "BACK_TO_TOP": "Back to top"
+    "BACK_TO_TOP": "Back to top",
+    "BACK_HOME": "Back to home"
   }
 }
-

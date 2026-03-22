@@ -1,7 +1,7 @@
 {
   "META": {
-    "TITLE": "Brio-Net | Nettoyage de vitres en hauteur depuis 2003",
-    "DESCRIPTION": "Brio-Net offre le nettoyage de vitres en hauteur depuis 2003, pour le résidentiel et le commercial, dans la région de Saint-Jean-sur-Richelieu, Montréal et la Rive-Sud."
+    "TITLE": "FDC Multiservices | Lavage de vitres, conciergerie et entretien",
+    "DESCRIPTION": "FDC Multiservices offre le lavage de vitres, la conciergerie, le lavage à pression, des services commercial-résidentiel et le déneigement manuel dans la région de Saint-Jean-sur-Richelieu, Montréal et la Rive-Sud."
   },
   "NAV": {
     "HOME": "Accueil",
@@ -17,9 +17,9 @@
     "MENU": "Menu"
   },
   "HERO": {
-    "TAGLINE": "Nettoyage de vitres en hauteur depuis 2003",
-    "TITLE": "Des vitres impeccables pour votre entreprise ou résidence",
-    "DESCRIPTION": "Brio-Net offre le nettoyage de vitres en hauteur depuis 2003, pour le résidentiel et le commercial, dans la région de Saint-Jean-sur-Richelieu, Montréal et la Rive-Sud.",
+    "TAGLINE": "Multiservices résidentiel et commercial",
+    "TITLE": "Des services professionnels pour votre entreprise ou résidence",
+    "DESCRIPTION": "FDC Multiservices offre le lavage de vitres, la conciergerie, le lavage à pression et le déneigement manuel pour le résidentiel et le commercial, dans la région de Saint-Jean-sur-Richelieu, Montréal et la Rive-Sud.",
     "CTA_PRIMARY": "Demander une soumission",
     "CTA_SECONDARY": "Nos services"
   },
@@ -27,16 +27,24 @@
     "TITLE": "Nos services",
     "SUBTITLE": "Des solutions complètes pour tous vos besoins d'entretien",
     "WINDOW_CLEANING": {
-      "TITLE": "LAVAGE DE VITRE",
-      "DESCRIPTION": "Nettoyage professionnel de vitres en hauteur avec équipement spécialisé. Service disponible pour immeubles commerciaux et résidentiels de toutes tailles."
+      "TITLE": "LAVAGE DE VITRES",
+      "DESCRIPTION": "Nettoyage professionnel de vitres avec équipement spécialisé. Service disponible pour immeubles commerciaux et résidentiels de toutes tailles."
     },
     "JANITORIAL": {
       "TITLE": "CONCIERGERIE",
       "DESCRIPTION": "Services de conciergerie complets pour vos espaces commerciaux. Entretien régulier adapté à vos besoins et à votre horaire."
     },
-    "HOUSEKEEPING": {
-      "TITLE": "ENTRETIEN MÉNAGER",
-      "DESCRIPTION": "Services d'entretien ménager professionnels pour résidences et commerces. Nettoyage minutieux avec des produits de qualité."
+    "PRESSURE_WASHING": {
+      "TITLE": "LAVAGE À PRESSION",
+      "DESCRIPTION": "Nettoyage en profondeur à haute pression pour vos surfaces extérieures: entrées, terrasses, stationnements, façades et plus encore."
+    },
+    "COMMERCIAL_RESIDENTIAL": {
+      "TITLE": "COMMERCIAL-RÉSIDENTIEL",
+      "DESCRIPTION": "Services adaptés à chaque type de propriété, qu'il s'agisse d'un immeuble commercial, d'une résidence privée ou d'une copropriété."
+    },
+    "SNOW_REMOVAL": {
+      "TITLE": "DÉNEIGEMENT MANUEL",
+      "DESCRIPTION": "Service de déneigement manuel pour toits, balcons, entrées et espaces difficiles d'accès. Intervention rapide et sécuritaire."
     },
     "LEARN_MORE": "En savoir plus"
   },
@@ -48,7 +56,7 @@
       "DESCRIPTION": "Immeubles de bureaux, centres commerciaux, établissements de santé, institutions éducatives et plus encore. Nous comprenons les exigences uniques des espaces commerciaux.",
       "FEATURES": [
         "Horaires flexibles pour minimiser les perturbations",
-        "Équipement professionnel pour travaux en hauteur",
+        "Équipement professionnel pour tous les travaux",
         "Service régulier ou ponctuel selon vos besoins",
         "Devis personnalisé gratuit"
       ]
@@ -70,7 +78,7 @@
     "AREAS": {
       "STJEAN": {
         "NAME": "Saint-Jean-sur-Richelieu",
-        "DESCRIPTION": "Notre région d'origine, où nous servons la communauté depuis 2003."
+        "DESCRIPTION": "Notre région d'origine, où nous servons la communauté avec fierté."
       },
       "MONTREAL": {
         "NAME": "Montréal",
@@ -84,9 +92,9 @@
     "CTA": "Vérifiez si nous desservons votre secteur"
   },
   "ABOUT": {
-    "TITLE": "À propos de Brio-Net",
-    "SUBTITLE": "Plus de 20 ans d'expertise à votre service",
-    "DESCRIPTION": "Depuis 2003, Brio-Net se démarque par la qualité de ses services de nettoyage de vitres en hauteur. Notre équipe expérimentée dessert avec fierté les secteurs résidentiel et commercial de Saint-Jean-sur-Richelieu, Montréal et la Rive-Sud.",
+    "TITLE": "À propos de FDC Multiservices",
+    "SUBTITLE": "Votre partenaire de confiance pour l'entretien et les multiservices",
+    "DESCRIPTION": "FDC Multiservices se démarque par la qualité et la diversité de ses services d'entretien. Notre équipe expérimentée dessert avec fierté les secteurs résidentiel et commercial de Saint-Jean-sur-Richelieu, Montréal et la Rive-Sud.",
     "VALUES": {
       "TITLE": "Nos valeurs",
       "QUALITY": {
@@ -145,11 +153,11 @@
         "ANSWER": "Remplissez notre formulaire de contact en ligne ou appelez-nous directement. Nous vous fournirons une soumission gratuite et sans engagement."
       },
       {
-        "QUESTION": "Êtes-vous équipés pour les immeubles en hauteur?",
-        "ANSWER": "Absolument. Nous disposons d'équipement spécialisé pour le nettoyage de vitres en hauteur, que ce soit pour des immeubles commerciaux ou des résidences à plusieurs étages."
+        "QUESTION": "Offrez-vous le déneigement manuel?",
+        "ANSWER": "Absolument. Nous offrons un service de déneigement manuel pour toits, balcons, entrées et espaces difficiles d'accès, avec une intervention rapide et sécuritaire."
       },
       {
-        "QUESTION": "Quelle est la fréquence recommandée pour le nettoyage des vitres?",
+        "QUESTION": "Quelle est la fréquence recommandée pour le lavage de vitres?",
         "ANSWER": "Pour les commerces, nous recommandons généralement un nettoyage mensuel ou trimestriel selon l'achalandage. Pour les résidences, un nettoyage saisonnier (2 à 4 fois par année) est souvent suffisant."
       },
       {
@@ -171,6 +179,11 @@
       "PHONE_PLACEHOLDER": "(514) 555-0123",
       "SERVICE": "Service souhaité",
       "SERVICE_PLACEHOLDER": "Sélectionnez un service",
+      "SERVICE_WINDOW_CLEANING": "Lavage de vitres",
+      "SERVICE_JANITORIAL": "Conciergerie",
+      "SERVICE_PRESSURE_WASHING": "Lavage à pression",
+      "SERVICE_COMMERCIAL_RESIDENTIAL": "Commercial-résidentiel",
+      "SERVICE_SNOW_REMOVAL": "Déneigement manuel",
       "REGION": "Région",
       "REGION_PLACEHOLDER": "Sélectionnez votre région",
       "MESSAGE": "Message",
@@ -197,14 +210,14 @@
     }
   },
   "FOOTER": {
-    "DESCRIPTION": "Nettoyage de vitres en hauteur depuis 2003 pour le résidentiel et le commercial.",
+    "DESCRIPTION": "Services professionnels d'entretien pour le résidentiel et le commercial.",
     "QUICK_LINKS": "Liens rapides",
     "SERVICES": "Services",
     "LEGAL": "Légal",
     "PRIVACY": "Politique de confidentialité",
     "COOKIES": "Gestion des cookies",
     "TERMS": "Conditions d'utilisation",
-    "COPYRIGHT": "© {{year}} Brio-Net. Tous droits réservés.",
+    "COPYRIGHT": "© {{year}} FDC Multiservices. Tous droits réservés.",
     "REGIONS_SERVED": "Régions desservies: Saint-Jean-sur-Richelieu, Montréal, Rive-Sud"
   },
   "COOKIES": {
@@ -241,7 +254,7 @@
     "SECTIONS": {
       "INTRO": {
         "TITLE": "Introduction",
-        "CONTENT": "Brio-Net s'engage à protéger votre vie privée. Cette politique explique comment nous collectons, utilisons et protégeons vos informations personnelles, conformément à la Loi 25 du Québec sur la protection des renseignements personnels."
+        "CONTENT": "FDC Multiservices s'engage à protéger votre vie privée. Cette politique explique comment nous collectons, utilisons et protégeons vos informations personnelles, conformément à la Loi 25 du Québec sur la protection des renseignements personnels."
       },
       "COLLECTION": {
         "TITLE": "Collecte des informations",
@@ -269,7 +282,7 @@
     "LOADING": "Chargement...",
     "ERROR": "Une erreur est survenue",
     "CLOSE": "Fermer",
-    "BACK_TO_TOP": "Retour en haut"
+    "BACK_TO_TOP": "Retour en haut",
+    "BACK_HOME": "Retour à l'accueil"
   }
 }
-
